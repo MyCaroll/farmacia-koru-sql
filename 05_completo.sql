@@ -1,0 +1,38 @@
+-- =====================================================
+-- SISTEMA DE GESTÃO - FARMÁCIA CLÍNICA KORU
+-- =====================================================
+-- 
+-- 📁 ESTRUTURA ORGANIZADA DE SCRIPTS:
+-- 
+-- 1. 01_criacao_tabelas.sql
+--    → Cria o banco de dados e todas as tabelas
+--    → Define chaves primárias, estrangeiras e constraints
+-- 
+-- 2. 02_insercao_dados.sql  
+--    → Popula as tabelas com dados realistas de exemplo
+--    → Inclui pacientes, profissionais, medicamentos, etc.
+-- 
+-- 3. 03_consultas.sql
+--    → Consultas complexas com JOIN, WHERE, ORDER BY
+--    → Relatórios e análises do sistema
+-- 
+-- 4. 04_atualizacao_exclusao.sql
+--    → Comandos UPDATE para atualizações
+--    → Comandos DELETE para exclusões controladas
+-- 
+-- 💻 INSTRUÇÕES DE EXECUÇÃO:
+-- Execute os scripts na ordem numérica no MySQL:
+-- 
+-- SOURCE 01_criacao_tabelas.sql;
+-- SOURCE 02_insercao_dados.sql; 
+-- SOURCE 03_consultas.sql;
+-- SOURCE 04_atualizacao_exclusao.sql;
+-- 
+-- 🎯 OBJETIVO:
+-- Demonstrar organização, boas práticas e domínio completo
+-- das operações SQL (DDL, DML, DQL) em um projeto real.
+-- 
+-- 👨‍💻 DESENVOLVIDO POR: 
+-- Carolina Fávero
+-- Análise e Desenvolvimento de Sistemas (ADS) - 2025
+-- =====================================================
