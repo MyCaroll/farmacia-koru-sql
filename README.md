@@ -34,3 +34,20 @@ SOURCE 01_criacao_tabelas.sql;
 SOURCE 02_insercao_dados.sql;
 SOURCE 03_consultas.sql;
 SOURCE 04_atualizacao_exclusao.sql;
+
+Funcionalidades Implementadas
+Gestão de pacientes e profissionais
+Controle de prescrições e dispensações
+Gestão de estoque e lotes
+Registro de alergias e interações
+Consultas analíticas e relatórios
+
+Tecnologias Utilizadas
+MySQL 8.0+
+MySQL Workbench / VSCode
+Git e GitHub
+
+Autoria Desenvolvido por: Carolina Fávero Curso: Análise e Desenvolvimento de Sistemas (ADS) — 2025
+
+Licença
+Projeto acadêmico para fins educacionais
